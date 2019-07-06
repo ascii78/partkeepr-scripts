@@ -12,7 +12,7 @@ Octopart Import: CMOS Decade Counter/Divider with Decoded 7-Segment Display Outp
 
 Using smaller coin envelopes 95mmx145mm result looks like this:
 
-![example](img/example.jpg)
+![example](envelopes/example.jpg)
 
 Requires: reportlab, pylabels
 
